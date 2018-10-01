@@ -1,7 +1,9 @@
 This a GitDemo.....
 hi...!
 
+Change 1
 
+<<<<<<< HEAD
 --->Tokka 1
 
 ---->Tokka 1
@@ -12,3 +14,6 @@ tokka 1
 tokka 1
 tokka 1
 tokka 1
+=======
+Change 2
+>>>>>>> bug123
